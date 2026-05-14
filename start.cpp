@@ -20,5 +20,7 @@ int main()
         cout << "The number is zero" << endl;
     }
 
+    cout<<"This is a new line for changing purpose"<<endl;
+
     return 0;
 }
