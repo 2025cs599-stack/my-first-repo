@@ -24,5 +24,7 @@ int main()
 
     cout << "Final Update";
 
+    cout << "Saturday Practice";
+
     return 0;
 }

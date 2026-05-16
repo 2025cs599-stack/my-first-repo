@@ -5,6 +5,7 @@ int main()
  {
     int number;
 
+
     cout << "Enter an integer: ";
     cin >> number;
 
@@ -19,5 +20,6 @@ int main()
         cout << number << " is odd." << endl;
     }
 
+    cout << "Saturday Practice";
     return 0;
 }
